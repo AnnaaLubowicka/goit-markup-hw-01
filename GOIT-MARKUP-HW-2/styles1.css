@@ -1,0 +1,126 @@
+/* .schedule-body>tr:hover {
+    background-color: rgb(92, 40, 175);
+    color: white;
+} */
+
+/* Ustalanie wyglądu tabeli */
+/*.schedule {
+    border-collapse: collapse;
+}
+
+.schedule th,
+.schedule td {
+    padding: 8px;
+    border: 1px solid #212121;
+}
+thead {
+    background-color: tomato;
+    }
+
+.social-links .link {
+    color: teal;
+}
+
+.social-links .link:hover,
+.social-links .link:focus {
+    color: orange;
+}
+
+.social-links .link:active {
+    color: red;
+}
+
+.social-links .link:visited {
+    color: green;
+}
+.third-method {
+    color: black;
+        background-color: rgb(92, 183, 199);
+        border-radius: 10px;
+        padding: 10px;
+        margin: 10px;;
+}
+a {
+    text-decoration: none;
+}
+a[title] {
+    color: orange
+}
+a [href="https://cssreference.io"] {
+    color: green
+}
+
+.link {
+    color: teal;
+}
+
+.link:hover {
+    color: tomato;
+}
+ input[type=text] {
+     width: 100px;
+     transition: ease-in-out, width .35s ease-in-out;
+ }
+
+ input[type=text]:hover, input[type=text]:focus {
+     width: 250px;
+ }
+ .social-links .link {
+     color: teal;
+ }
+
+ .social-links .link:hover,
+ .social-links .link:focus {
+     color: orange;
+ }
+
+ .social-links .link:active {
+     color: red;
+ }
+ .cursors div {
+     margin: 10px;
+     padding: 10px;
+     border: 1px solid black;
+ }
+
+ .cursors div:hover {
+     background-color: coral;
+ }
+
+ .auto {
+     cursor: auto;
+ }
+
+ .default {
+     cursor: default;
+ }
+
+ .none {
+     cursor: none;
+ }
+
+ .help {
+     cursor: help;
+ }
+
+ .pointer {
+     cursor: pointer;
+ }
+
+ .png {
+     cursor: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/heart.png"), auto;
+ }
+
+ a {
+     cursor: pointer;
+ }*/
+ .link {
+     text-decoration: none;
+     color: navy;
+     opacity: 0.5;
+ }
+
+ /* Wpisz swój kod poniżej tej linii */
+ .link {
+     opacity: 1;
+ }
